@@ -1,0 +1,9 @@
+app/config/*.local.php
+vendor/*
+#app/storage/cache/blade/*
+#!app/storage/cache/blade/.gitkeep
+composer.lock
+*.log
+.elasticbeanstalk/
+*.ini
+.idea

@@ -1,0 +1,21 @@
+{
+    "require": {
+        "slim/slim": "^3.0",
+        "illuminate/database": "^5.2",
+        "slim/flash": "^0.1.0",
+        "slim/csrf": "^0.6.0",
+        "philo/laravel-blade": "^3.1",
+        "caseyamcl/Configula": "^2.4",
+        "monolog/monolog": "^1.19"
+    },
+    "require-dev": {
+      "oodle/krumo": "*",
+      "filp/whoops": "2.*",
+      "zeuxisoo/slim-whoops": "0.5.*"
+    },
+    "autoload": {
+      "psr-0": {
+        "MassivIQ": "src/"
+      }
+    }
+}
